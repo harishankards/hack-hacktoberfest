@@ -42,6 +42,7 @@ Thanks!
 - [GRANTSWIM4](https://github.com/GRANTSWIM4)
 - [sidharthssingh](https://github.com/sidharthssingh)
 - [rwhitworth](https://github.com/rwhitworth)
+- [harishankards](https://github.com/harishankards)
 - [vaidic](https://github.com/vaidic)
 - [YoYoHoneySinghhh](https://github.com/YoYoHoneySinghhh)
 - [xRahul](https://github.com/xRahul)
